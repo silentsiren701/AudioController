@@ -1,3 +1,3 @@
 function outside() {
-    return "Hello World";
+    return "Good Bye World";
 }
